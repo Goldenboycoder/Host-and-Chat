@@ -33,7 +33,7 @@ java ChatServer [port]
 **Then you will be asked to enter an `IP Address` you should enter your `Local IP` here , the one that the router assignes to you .If you're going to leave the server running for a long time you should assign your Pc a static ip address.**
 
 ## How to use the ChatClient
-You can either compile it and run or use the ChatClient.exe . *the .exe file will probably not be updated ,so do compile it*
+You can  compile it and run , use the ChatClient.exe or import the ChatClient project to NetBeans . *the .exe file will probably not be updated ,so do compile it*
 
 #### Interface
 
