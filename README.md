@@ -36,7 +36,7 @@ You can either compile it and run or use the ChatClient.exe . *the .exe file wil
 
 #### Interface
 
-[interface](screenshots/int1)
+[interface](screenshots/int1.PNG)
 
 ### Client to server connection
 1. Enter the `hostname` which is the public IP of the machine hosted by the server *the host must share his public ip with the group he wants to give accesss to*
