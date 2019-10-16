@@ -1,4 +1,4 @@
-![splash](screenshots/Splash.bmp)
+
 # Host-and-Chat
 Host and Chat is a side project of mine , it gives the user the ability to host his own chat server , then use the client to text chat and voice chat with there circle as if they were in the same room .
 ## Prerequisites
