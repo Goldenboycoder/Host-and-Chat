@@ -1,6 +1,6 @@
 
 # Host-and-Chat
-Host and Chat is a side project of mine , it gives the user the ability to host his own chat server , then use the client to text chat and voice chat with there circle as if they were in the same room .
+Host and Chat is a side project of mine , it gives the user the ability to host his own chat server , then use the client to text chat and voice chat with their circle as if they were in the same room .
 ## Prerequisites
 #### To be able to use the server you will need to :
 * Install [java jdk](https://www.oracle.com/technetwork/java/javase/downloads/index.html) on your machine 
